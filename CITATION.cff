@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Cite the accompanying unreviewed preprint, version 1.0."
+title: "No.71: Exact 1-Perfect-Code Classification of the Tribonacci Cubes Q_n(111)"
+type: software
+authors:
+  - family-names: "Yonezu"
+    given-names: "Ryutaro"
+version: "1.0"
+preferred-citation:
+  type: article
+  title: "Exact 1-Perfect-Code Classification of the Tribonacci Cubes Q_n(111)"
+  authors:
+    - family-names: "Yonezu"
+      given-names: "Ryutaro"
+  year: 2026
+repository-code: "https://github.com/yonezaemon1-hub/no71-tribonacci-cube-perfect-codes"
