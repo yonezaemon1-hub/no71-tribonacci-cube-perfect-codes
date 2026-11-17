@@ -6,6 +6,8 @@ authors:
   - family-names: "Yonezu"
     given-names: "Ryutaro"
 version: "1.0"
+doi: "10.5281/zenodo.24295940"
+date-released: "2026-11-17"
 preferred-citation:
   type: article
   title: "Exact 1-Perfect-Code Classification of the Tribonacci Cubes Q_n(111)"
@@ -13,4 +15,6 @@ preferred-citation:
     - family-names: "Yonezu"
       given-names: "Ryutaro"
   year: 2026
+  doi: "10.5281/zenodo.24295940"
+  url: "https://doi.org/10.5281/zenodo.24295940"
 repository-code: "https://github.com/yonezaemon1-hub/no71-tribonacci-cube-perfect-codes"

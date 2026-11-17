@@ -5,6 +5,16 @@ Author: Ryutaro Yonezu — Independent Researcher
 
 This is an **unreviewed, AI-assisted preprint**, version 1.0, with manuscript date 17 November 2026. See the repository and archive metadata for the publication identifiers. Human peer review and proof-assistant formal verification have not been performed.
 
+## Publication identifiers
+
+- Version DOI: https://doi.org/10.5281/zenodo.24295940
+- All-versions DOI: https://doi.org/10.5281/zenodo.24295939
+- Zenodo Preprint v1.0: https://zenodo.org/records/24295940
+- Frozen GitHub Release v1.0: https://github.com/yonezaemon1-hub/no71-tribonacci-cube-perfect-codes/releases/tag/v1.0
+- Frozen tag commit: `0972557db587001cf5897424743324af6fbc29ba`
+
+The v1.0 Release and Zenodo files remain frozen at their published hashes. This branch adds the issued DOI to README and CITATION only; its SHA256SUMS tracks the seven current branch assets. Use each frozen distribution's own SHA256SUMS for its files.
+
 ## Main result
 For n >= 1, Q_n(111) admits a 1-perfect code if and only if n=1 or n=3. Full mathematical proof is in the accompanying PDF and TeX.
 
